@@ -22,4 +22,4 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе неотрицательное число");
 int n = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine($"Резудьтат - {Akkerman(m,n)}");
+Console.WriteLine($"Результат - {Akkerman(m,n)}");
